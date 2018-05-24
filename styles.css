@@ -1,0 +1,30 @@
+.navBar {
+    background-color: #42c5f4;
+    display: inline-row;
+
+}
+.navItem {
+    color: white;
+    display: inline-flex;
+    margin-left: 20px
+}
+.featureInfoWrapper {
+    background-color:lightgrey;
+    padding: 0px 0px 0px 20px;    
+}
+
+.postContent {
+    margin-left: 20px;
+}
+
+.postHeadline {
+    margin-left: 20px;
+    color: rgb(53, 132, 235)
+}
+
+.postSocial {
+    background-color: #f49d41;
+    color: white;
+    padding-left: 30px
+    
+}
